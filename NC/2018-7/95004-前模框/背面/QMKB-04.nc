@@ -3,7 +3,7 @@ G40 G17 G49 G54 G80
 G91 G28 Z0.0
 ( NAME: Administrator )
 ( PART: H:\CNC-File\2018-7\¹àÐÇ\95004\95004-Ç°Ä£¿ò.prt )
-( DATE: Thu Jul 19 10:43:16 2018 )
+( DATE: Fri Jul 20 19:12:16 2018 )
 ( D6 ---> D=6.00 R=0.00 )
 S4000 M03
 G00 G90 X-10.25 Y-67.977
