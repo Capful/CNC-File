@@ -1,0 +1,34 @@
+%
+G40 G17 G49 G54 G80
+G91 G28 Z0.0
+( NAME: Administrator )
+( PART: H:\CNC-File\2018-7\É½Èó·å\1KP-480-1\1KP-Ñ¹¿é¹Ì¶¨°å.prt )
+( DATE: Wed Aug  8 17:27:37 2018 )
+( Z6 ---> D=6.00 R=0.00 )
+S1000 M03
+G00 G90 X125. Y-40.25
+Z5.
+G17 G01 Z-1.5 F120.
+G00 Z5.
+Y45.75
+G01 Z-1.5
+G00 Z5.
+X15.
+G01 Z-1.5
+G00 Z5.
+X-75.
+G01 Z-1.5
+G00 Z5.
+X-125. Y15.75
+G01 Z-1.5
+G00 Z5.
+Y-40.25
+G01 Z-1.5
+G00 Z5.
+M09
+M05
+G91 G28 Z0.0
+G28 Y0.0
+M30
+%
+(TOTAL Machine Time: 0.6 min)
