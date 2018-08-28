@@ -1,9 +1,9 @@
 %
 G40 G17 G49 G54 G80
 G91 G28 Z0.0
-( NAME: Capful-PC )
-( PART: D:\ºãÔóÀ¤\CNC-File\2018-8\²ÓÀ¤\2126\2126-WUPPER\2126-W-Ç°Ä£¿ò.prt )
-( DATE: Sun Aug 26 19:53:25 2018 )
+( NAME: Administrator )
+( PART: H:\CNC-File\2018-8\²ÓÀ¤\2126\2126-WUPPER\2126-W-Ç°Ä£¿ò.prt )
+( DATE: Mon Aug 27 09:41:24 2018 )
 ( E50R5 ---> D=50.00 R=5.00 )
 S1300 M03
 G00 G90 X-213.371 Y-21.791
