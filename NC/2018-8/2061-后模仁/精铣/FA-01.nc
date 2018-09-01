@@ -1,9 +1,9 @@
 %
 G40 G17 G49 G54 G80
 G91 G28 Z0.0
-( NAME: Capful-PC )
-( PART: C:\Users\Capful-PC\Desktop\新建文件夹 (2)\2061-后模仁\2061-后模仁.prt )
-( DATE: Thu Aug 30 23:59:47 2018 )
+( NAME: Administrator )
+( PART: H:\CNC-File\2018-8\灿坤\2061\2061-后模仁.prt )
+( DATE: Sat Sep  1 19:27:28 2018 )
 ( D12 ---> D=12.00 R=0.00 )
 S4500 M03
 G00 G90 X-102.189 Y-219.
