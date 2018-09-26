@@ -3,7 +3,7 @@ G40 G17 G49 G54 G80
 G91 G28 Z0.0
 ( NAME: Capful-PC )
 ( PART: H:\CNC-File\2018-9\²ÓÀ¤\2139-New\2139-U-Ç°Ä£ÈÊ.prt )
-( DATE: Wed Sep 26 10:43:18 2018 )
+( DATE: Wed Sep 26 13:27:47 2018 )
 ( R1 ---> D=2.00 R=1.00 )
 S15000 M03
 G00 G90 X-1.001 Y89.381
