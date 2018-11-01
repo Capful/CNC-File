@@ -2,8 +2,8 @@
 G40 G17 G49 G54 G80
 G91 G28 Z0.0
 ( NAME: Capful-PC )
-( PART: H:\CNC-File\2018-10\永盛杰\E27\E27-电极-编程.prt )
-( DATE: Tue Oct 30 11:56:22 2018 )
+( PART: H:\CNC-File\2018-10\永盛杰\G1000\G1000-电极-编程.prt )
+( DATE: Thu Nov  1 13:50:38 2018 )
 ( D6 ---> D=6.00 R=0.00 )
 S9000 M03
 G00 G90 X20.163 Y1.174
