@@ -3,7 +3,7 @@ G40 G17 G49 G54 G80
 G91 G28 Z0.0
 ( NAME: Capful-PC )
 ( PART: H:\CNC-File\2018-11\永盛杰\F1000\F1000-后模仁-镶件-改.prt )
-( DATE: Tue Dec 11 18:50:12 2018 )
+( DATE: Wed Dec 12 16:55:41 2018 )
 ( D4 ---> D=4.00 R=0.00 )
 S7000 M03
 G00 G90 X78.578 Y-79.134
