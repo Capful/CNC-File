@@ -1,0 +1,30 @@
+%
+G40 G17 G49 G54 G80
+G91 G28 Z0.0
+( NAME: Administrator )
+( PART: C:\Users\Administrator\Desktop\shuijing.prt )
+( DATE: Wed Nov 28 14:23:29 2018 )
+( D3 ---> D=3.00 R=0.00 )
+S4000 M03
+G00 G90 X7.638 Y-79.7
+Z56.
+G17 G01 Z-2.1 F400.
+X0.0 Z-2.3 F320.
+X-115.5 F480.
+G40 G02 X-132.2 Y-63. I0.0 J16.7
+G01 Y-17.
+G02 X-115.5 Y-.3 I16.7 J0.0
+G01 X115.5
+G02 X132.2 Y-17. I0.0 J-16.7
+G01 Y-63.
+G02 X115.5 Y-79.7 I-16.7 J0.0
+G01 X0.0
+Z.7 F800.
+G00 Z56.
+M09
+M05
+G91 G28 Z0.0
+G28 Y0.0
+M30
+%
+(TOTAL Machine Time: 1.8 min)

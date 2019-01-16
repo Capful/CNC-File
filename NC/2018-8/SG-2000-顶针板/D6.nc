@@ -1,0 +1,30 @@
+%
+(NAME: D6)
+G40 G17 G49 G80 G90
+G91 G28 Z0.
+(ToolName=R3 D.=6.00 R.=3.00)
+G00 G90 G54 X0. Y0.
+S6000 M03
+M08
+G0 X355. Y-230.
+Z5.
+G1 Z-1.5 F120.
+G0 Z5.
+X360. Y-180.
+G1 Z-1.5
+G0 Z5.
+Y180.
+G1 Z-1.5
+G0 Z5.
+X355. Y230.
+G1 Z-1.5
+G0 Z5.
+M05
+M09
+G91 G28 Z0.0
+G28 Y0.0
+M30
+%
+(Tool name: R3)
+(Zmin: -1.50)
+(Total time : 0)

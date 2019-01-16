@@ -1,0 +1,22 @@
+%
+G40 G17 G49 G54 G80
+G91 G28 Z0.0
+( NAME: Administrator )
+( PART: H:\CNC-File\2018-11\ÓÀÊ¢½Ü\F1000\f1000-¶¥Õë°å.prt )
+( DATE: Thu Nov 22 20:42:46 2018 )
+( R3 ---> D=6.00 R=3.00 )
+S2000 M03
+G00 G90 X75. Y0.0
+Z7.
+G17 G01 Z-14.5 F120.
+G00 Z7.
+X-75.
+G01 Z-14.5
+G00 Z7.
+M09
+M05
+G91 G28 Z0.0
+G28 Y0.0
+M30
+%
+(TOTAL Machine Time: 0.6 min)
