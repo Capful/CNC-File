@@ -1,0 +1,28 @@
+%
+G40 G17 G49 G54 G80
+G91 G28 Z0.0
+( NAME: Capful-PC )
+( PART: H:\CNC-File\2019-1\²ÓÀ¤\YD-ìÙ¶·\YD-A-Ç°Ä£¿ò.prt )
+( DATE: Thu Feb 14 20:50:57 2019 )
+( Z6 ---> D=6.00 R=0.00 )
+S1000 M03
+G00 G90 X105. Y70.
+Z5.
+G17 G01 Z-14.5 F120.
+G00 Z5.
+X-155.
+G01 Z-14.5
+G00 Z5.
+Y-70.
+G01 Z-14.5
+G00 Z5.
+X105.
+G01 Z-14.5
+G00 Z5.
+M09
+M05
+G91 G28 Z0.0
+G28 Y0.0
+M30
+%
+(TOTAL Machine Time: 0.9 min)
