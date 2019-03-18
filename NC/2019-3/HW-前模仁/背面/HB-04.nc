@@ -1,0 +1,28 @@
+%
+G40 G17 G49 G54 G80
+G91 G28 Z0.0
+( NAME: HZK-PC )
+( PART: H:\CNC-File\2019-3\ºÀÌ©\»¨ÎÆ¿¾ÅÌ\HW-Ç°Ä£ÈÊ.prt )
+( DATE: Mon Mar  4 15:16:17 2019 )
+( Z6 ---> D=6.00 R=0.00 )
+S1000 M03
+G00 G90 X-55. Y-35.
+Z5.
+G17 G01 Z-1.5 F120.
+G00 Z5.
+X35.
+G01 Z-1.5
+G00 Z5.
+Y55.
+G01 Z-1.5
+G00 Z5.
+X-55.
+G01 Z-1.5
+G00 Z5.
+M09
+M05
+G91 G28 Z0.0
+G28 Y0.0
+M30
+%
+(TOTAL Machine Time: 0.4 min)
