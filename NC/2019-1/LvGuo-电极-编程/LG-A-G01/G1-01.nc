@@ -1,0 +1,19 @@
+%
+G40 G17 G49 G54 G80
+G91 G28 Z0.0
+( NAME: HZK-PC )
+( PART: H:\CNC-File\2019-1\豪泰\LvGuo\LvGuo-A\LvGuo-A-前模仁-电极-改-190328.prt )
+( DATE: Thu Mar 28 09:57:02 2019 )
+( Z8 ---> D=8.00 R=0.00 )
+S716 M03
+G00 G90 X0.0 Y0.0
+Z4.6
+G17 G01 Z-3.4 F80.
+G00 Z4.6
+M09
+M05
+G91 G28 Z0.0
+G28 Y0.0
+M30
+%
+(TOTAL Machine Time: 0.3 min)
